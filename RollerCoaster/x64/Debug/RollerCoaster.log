@@ -1,0 +1,10 @@
+﻿  App.cpp
+C:\Users\chris\source\repos\RollerCoaster\RollerCoaster\src\Track.h(59,16): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\chris\source\repos\RollerCoaster\RollerCoaster\src\App.cpp(176,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chris\source\repos\RollerCoaster\RollerCoaster\src\App.cpp(429,33): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\chris\source\repos\RollerCoaster\RollerCoaster\src\App.cpp(429,22): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\chris\source\repos\RollerCoaster\RollerCoaster\src\App.cpp(488,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chris\source\repos\RollerCoaster\RollerCoaster\src\App.cpp(488,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chris\source\repos\RollerCoaster\RollerCoaster\src\App.cpp(600,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\chris\source\repos\RollerCoaster\RollerCoaster\src\App.cpp(601,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  RollerCoaster.vcxproj -> C:\Users\chris\source\repos\RollerCoaster\x64\Debug\RollerCoaster.exe
